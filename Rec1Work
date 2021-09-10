@@ -1,1 +1,5 @@
+Points_Ob = 5
+Total_Points = 20
 
+percentage = (Points_Ob / Total_Points) * 100
+print("Percent points gained:", int(percentage),"%")
